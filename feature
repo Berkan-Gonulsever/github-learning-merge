@@ -1,1 +1,1 @@
-Awesome feature1
+Awesome feature2
